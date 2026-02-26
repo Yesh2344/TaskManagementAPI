@@ -1,3 +1,4 @@
+# Minor edit
 class Task < ApplicationRecord
   belongs_to :user
 
