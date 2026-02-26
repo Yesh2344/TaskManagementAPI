@@ -57,3 +57,5 @@ A production-ready API for managing tasks with authentication.
 ## Testing
 
 To run the tests, use the following command:
+
+Additional details added.
